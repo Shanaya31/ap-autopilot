@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Generated data outputs
+data/output/contracts/
+data/output/contract_pricing.csv
+data/output/contract_text.csv
+
+# Root generated output folder
+output/
+
+desktop.ini
+
+# Keep the environment template
+!.env.example

@@ -1,0 +1,45 @@
+MASTER SERVICES & SUPPLY AGREEMENT
+
+VENDOR IDENTIFICATION & CONTRACT SUMMARY
+Vendor Name: Cascade Packaging
+Vendor ID: V003
+Contract ID: C003
+Contract Period: 2025-09-10 to 2026-11-20
+Payment Terms: NET_60
+
+1. SERVICES AND DELIVERY OBLIGATIONS
+Cascade Packaging ("Vendor") agrees to supply the products and facilitate the commercial services specified in Schedule A below to Customer. Vendor shall perform all service obligations in a timely and workmanlike manner, conforming to reasonable commercial standards. Delivery of physical packaging materials shall be made to Customer’s designated facility within five (5) business days of purchase order confirmation.
+
+SCHEDULE A -- PRICING TABLE & SERVICE SPECIFICATIONS
++----------+----------------------------+-----------------+-------------------+-----------------------------------+
+| Item Code| Service / Item Description | Recurring Basis | Unit Price        | Comments                          |
++----------+----------------------------+-----------------+-------------------+-----------------------------------+
+| CP-101   | Heavy Duty Shipping Boxes  | Per Bundle      | $45.00 per unit   | Standard 24x24x24 corrugated      |
+| CP-204   | Office Cleaning            | monthly         | $53.84 per unit   | Ancillary administrative service  |
+| CP-309   | Custom Pallet Strapping    | Bi-Weekly       | $115.00 per unit  | Includes tensioning labor         |
++----------+----------------------------+-----------------+-------------------+-----------------------------------+
+*All listed rates are net of taxes and freight unless otherwise noted in writing.*
+
+2. INVOICING AND PAYMENT TERMS
+Invoices will be rendered by Vendor upon delivery of goods or completion of monthly recurring services. All payments under Contract ID C003 are governed by payment terms of NET_60 from the date of invoice issuance.
+
+2.1 Late Payment Penalty: Any invoice amount remaining unpaid after sixty (60) calendar days from the invoice date shall be subject to a late-payment penalty charge of 1.5 percent per month (or 18% per annum) calculated daily on all overdue balances until paid in full.
+
+3. PRICE ADJUSTMENTS & NOTICE
+Vendor reserves the right to adjust unit prices listed in Schedule A due to fluctuating raw material costs or operational expenses. Cascade Packaging shall provide Customer with no less than thirty (30) days advance written notice of any price increase. Continued acceptance of services or placement of orders after the 30-day notice period constitutes acceptance of the modified pricing.
+
+4. TERM AND AUTOMATIC RENEWAL
+This Contract shall take effect on 2025-09-10 and remain in full force through 2026-11-20. Following the initial contract period, this agreement shall automatically renew for additional consecutive twelve (12) month terms unless either party provides written notice of cancellation at least sixty (60) days prior to the expiration of the current term.
+
+Section 5. TERMINATION AND DISPUTE HANDLING
+5.1 Termination: Either party may terminate this agreement for material breach if such breach remains uncured for thirty (30) days following receipt of written notice detailing the breach.
+
+5.2 Dispute Resolution: Any dispute, claim, or controversy arising out of or relating to this agreement shall first be submitted to informal mediation between designated executive representatives. If unresolved within forty-five (45) days, either party may pursue remedies in a court of competent jurisdiction.
+
+SIGNATURES:
+
+For Vendor: Cascade Packaging (Vendor ID: V003)
+Signature: ______________________ Date: _________
+
+For Customer:
+Signature: ______________________ Date: _________

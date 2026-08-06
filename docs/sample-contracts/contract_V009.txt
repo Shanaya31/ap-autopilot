@@ -1,0 +1,28 @@
+MASTER SERVICES AGREEMENT
+Contract ID: C009
+Vendor ID: V009
+
+This Master Services Agreement ("Agreement") is executed and entered into as of December 20, 2025 ("Effective Date"), by and between the Client ("Company") and Blue Harbor Consulting ("Vendor", Vendor ID: V009).
+
+1. Scope of Services and Delivery Obligations
+Vendor agrees to provide facilities maintenance, office cleaning, and general commercial support services in accordance with the specifications and service levels detailed in Appendix A attached hereto. Vendor shall perform all services in a professional, timely, and workmanlike manner, utilizing qualified personnel and adhering to applicable legal, regulatory, and industry standard commercial practices. Vendor shall ensure that all equipment, tools, and supplies required to fulfill service obligations meet appropriate safety and quality requirements.
+
+2. Term and Auto-Renewal
+This Agreement shall commence on December 20, 2025, and shall remain in full force and effect through June 6, 2026 ("Initial Term"). Following the expiration of the Initial Term, this Agreement shall automatically renew for successive six (6) month periods unless either party provides written notice of non-renewal to the other party at least sixty (60) days prior to the expiration of the then-current term.
+
+3. Invoicing, Payment Terms, and Late Payments
+Vendor shall submit itemized invoices on a monthly basis following the completion of services rendered. Payment terms for all valid and undisputed invoices are NET_30 from the date of invoice receipt by Company. Any invoice balances remaining unpaid after thirty (30) calendar days from the due date shall accrue a late-payment penalty calculated at the rate of one and one-half percent (1.5%) per month, or the maximum percentage permitted under applicable law, whichever is less, assessed on the outstanding overdue balance until paid in full.
+
+4. Price Increases and Adjustments
+The unit prices and rates listed in Appendix A shall remain fixed and firm throughout the Initial Term. Vendor reserves the right to propose price adjustments for subsequent renewal terms, provided that Vendor supplies Company with formal written advance notice of any such price increase at least thirty (30) days prior to the effective date of the proposed modification.
+
+5. Termination and Dispute Handling
+Either party may terminate this Agreement for convenience upon sixty (60) days' prior written notice, or immediately for cause if the other party breaches any material provision of this Agreement and fails to cure such material breach within thirty (30) days of receiving written notice specifying the default. In the event of any dispute, controversy, or claim arising out of or relating to this Agreement, the parties agree to engage in good-faith negotiations between designated corporate officers to resolve the matter informally prior to initiating formal arbitration or litigation proceedings.
+
+APPENDIX A: PRICING SCHEDULE
+This Pricing Schedule forms an integral part of Contract ID: C009 and sets forth the applicable billing rates for services provided by Blue Harbor Consulting (Vendor ID: V009).
+
+1. Facilities Repair Call-out: $334.97 per unit
+2. Office Cleaning (monthly): $153.11 per unit
+
+All unit charges shall be calculated and invoiced according to actual quantities delivered or requested by Company per billing cycle, subject strictly to the NET_30 payment terms and late fee provisions established in Section 3 of this Agreement.
